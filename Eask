@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "sideline-geiser"
          "0.1.0"
          "Show Geiser result with sideline")
